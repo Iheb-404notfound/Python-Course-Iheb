@@ -1,0 +1,80 @@
+{
+    "name":"Hominin ancestor",
+    "children":[
+        {"name":"Chimpanzee", "children":[]},
+        {
+            "name":"a branch",
+            "children":[
+                {"name":"Ardepithecus ramidus", "children":[]},
+                {
+                    "name":"Australopithecus anamensis",
+                     "children":[
+                        {
+                            "name":"Australopithecus afarensis",
+                            "children":[
+                                {
+                                    "name":"Paranthropus aethiopicus",
+                                    "children":[
+                                        {
+                                            "name":"Paranthropus robustus",
+                                            "children":[]
+                                        },
+                                        {
+                                            "name":"Paranthropus boisei",
+                                            "children":[]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name":"a branch",
+                                    "children":[
+                                        {
+                                            "name":"Australopithecus garhi",
+                                            "children":[]
+                                        },
+                                        {
+                                            "name":"Australopithecus africanus",
+                                            "children":[
+                                                {
+                                                    "name":"a branch",
+                                                    "children":[
+                                                        {
+                                                            "name":"Homo habilis",
+                                                            "children":[]
+                                                        },
+                                                        {
+                                                            "name":"a branch",
+                                                            "children":[
+                                                                {
+                                                                    "name":"Homo erectus",
+                                                                    "children":[]
+                                                                },
+                                                                {
+                                                                    "name":"a branch",
+                                                                    "children":[
+                                                                        {
+                                                                            "name":"Homo neanderthalensis",
+                                                                            "children":[]
+                                                                        },
+                                                                        {
+                                                                            "name":"Homo sapiens",
+                                                                            "children":[]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                     ]
+                }
+            ]
+        }
+    ]
+}

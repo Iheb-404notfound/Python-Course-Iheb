@@ -1,0 +1,10 @@
+    In 1932 the neutron was discovered by James Chadwick and, in 
+1933, artificial radioactivity by Frderic and Irine Joliot-Curie. Thereafter, in the late 1930's and in the 1940's many artificially produced 
+radioactive elements were discovered by many investigators using 
+nuclear reactions produced in the cyclotron of Ernest Lawrence and 
+the nuclear reactor developed by Enrico Fermi and his colleagues. In 
+discussing such nuclear reactions the following designations are used: 
+n for neutron, p for proton, d for deuteron, a for alpha particle, and y 
+for gamma radiation, and the format, (n,y)
+NATIONAL COUNCIL ON RADIATION 
+PROTECTION AND MEASUREMENTS
