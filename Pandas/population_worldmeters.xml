@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data xmlns="http://example.com">
+ <row>
+   <Entity>China</Entity>
+   <Population>1433783686</Population>
+   <Area>9,388,211</Area>
+   <Density>153</Density>
+   <Worldpopulationshare>18.6</Worldpopulationshare>
+   <GDP>12.24</GDP>
+ </row>
+ <row>
+   <Entity>E.U</Entity>
+   <Population>444986729</Population>
+   <Area>3997838</Area>
+   <Density>111</Density>
+   <Worldpopulationshare>5.8</Worldpopulationshare>
+   <GDP>17.28</GDP>
+ </row>
+ <row>
+   <Entity>U.S.A</Entity>
+   <Population>329064917</Population>
+   <Area>9147420</Area>
+   <Density>36</Density>
+   <Worldpopulationshare>4.3</Worldpopulationshare>
+   <GDP>19.39</GDP>
+ </row>
+ <row>
+   <Entity>Japan</Entity>
+   <Population>126860301</Population>
+   <Area>364555</Area>
+   <Density>348</Density>
+   <Worldpopulationshare>1.6</Worldpopulationshare>
+   <GDP>4.87</GDP>
+ </row>
+</data>

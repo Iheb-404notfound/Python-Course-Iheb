@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <Name>Rachel Levine</Name>
+    <Pronouns>She/Her</Pronouns>
+    <Birth>1957</Birth>
+    <Occupation>Pediatricien</Occupation>
+    <Nationality>United-Statesian</Nationality>
+  </row>
+  <row>
+    <index>1</index>
+    <Name>Alan Turing</Name>
+    <Pronouns>He/His</Pronouns>
+    <Birth>1912</Birth>
+    <Occupation>Mathematician</Occupation>
+    <Nationality>British</Nationality>
+  </row>
+  <row>
+    <index>2</index>
+    <Name>Lann Homscheidt</Name>
+    <Pronouns>They/Their</Pronouns>
+    <Birth>1965</Birth>
+    <Occupation>Linguist</Occupation>
+    <Nationality>German</Nationality>
+  </row>
+  <row>
+    <index>3</index>
+    <Name>Alan Hart</Name>
+    <Pronouns>He/His</Pronouns>
+    <Birth>1890</Birth>
+    <Occupation>Radiologist</Occupation>
+    <Nationality>United-Statesian</Nationality>
+  </row>
+</data>
